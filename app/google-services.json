@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710743156319",
+    "firebase_url": "https://simplefirechat-usatov-k.firebaseio.com",
+    "project_id": "simplefirechat-usatov-k",
+    "storage_bucket": "simplefirechat-usatov-k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710743156319:android:956ec5ae62e7ab43",
+        "android_client_info": {
+          "package_name": "com.example.usatov_ks.simplefirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710743156319-nk2olr3fdkim13m7lbcgrhmuo97oitp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usatov_ks.simplefirebasechat",
+            "certificate_hash": "93ea8190a6af763fc04e186242cc756a38100ab3"
+          }
+        },
+        {
+          "client_id": "710743156319-748arpsdlug9v7m98s3f7c22d2fa2v72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7oBvD_oMLf8ERRES6JKAkihN_yD76O_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710743156319-748arpsdlug9v7m98s3f7c22d2fa2v72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
